@@ -3,7 +3,7 @@ import axios from 'axios'
 import { useNavigate } from 'react-router-dom'
 import { Plus, Search, Pencil, Trash2, X, LogOut, Package, AlertTriangle, Clock, CheckCircle } from 'lucide-react'
 
-const API = 'http://localhost:3000/api/medicines'
+const API = 'https://medvault-sfgv.onrender.com/api/medicines'
 
 function getStatus(medicine) {
   const today = new Date()
