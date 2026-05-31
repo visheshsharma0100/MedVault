@@ -1,0 +1,19 @@
+# 💊 MedVault
+
+A full-stack Medicine Inventory Management System built with MERN stack.
+
+## 🔗 Live Demo
+https://med-vault-85lb-git-main-visheshsharma0100s-projects.vercel.app
+
+## 🛠️ Tech Stack
+- React + Tailwind CSS
+- Node.js + Express
+- MongoDB + Mongoose
+- JWT Authentication
+
+## ✨ Features
+- Add, update, delete medicines
+- Expiry date tracking with alerts
+- Low stock warnings
+- Search and filter
+- Secure JWT auth
