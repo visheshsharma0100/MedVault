@@ -29,7 +29,7 @@ export default function Signup() {
     if (!validate()) return
     setLoading(true)
     try {
-      const res = await axios.post('http://localhost:3000/signup', {
+      const res = await axios.post('https://medvault-sfgv.onrender.com/signup', {
         Username: username.trim(),
         Password: password,
       })
