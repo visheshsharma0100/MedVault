@@ -3,7 +3,7 @@
 A full-stack Medicine Inventory Management System built with MERN stack.
 
 ## 🔗 Live Demo
-med-vault-ivory.vercel.app
+https://med-vault-ivory.vercel.app/
 
 ## 🛠️ Tech Stack
 - React + Tailwind CSS
